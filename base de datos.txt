@@ -1,0 +1,11 @@
+INSERT INTO socios_club (dni, nombre, apellido, telefono, actividad) VALUES 
+('111', 'Juan', 'Pérez', '123456789', 'Natación'),
+('222', 'María', 'González', '987654321', 'Tenis'),
+('333', 'Pedro', 'Sánchez', '456789012', 'Fútbol'),
+('444', 'Laura', 'Martínez', '321654987', 'Baloncesto'),
+('555', 'Carlos', 'López', '789012345', 'Atletismo'),
+('666', 'Ana', 'Díaz', '654321098', 'Voleibol'),
+('777', 'Diego', 'Hernández', '567890123', 'Gimnasia'),
+('888', 'Elena', 'Rodríguez', '234567890', 'Rugby'),
+('999', 'Sara', 'Fernández', '890123456', 'Ciclismo'),
+('1111', 'Javier', 'Ruiz', '345678901', 'Ajedrez');

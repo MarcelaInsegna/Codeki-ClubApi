@@ -1,16 +1,15 @@
-package CaCMarcelaInsegna.ClubApi;
+package CaCMarcelaInsegna.FlightApi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SociosClubApiApplication {
+public class FlightApiApplication {
 
 	public static void main(String[] args) {
 
-		SpringApplication.run(SociosClubApiApplication.class, args);
+		SpringApplication.run(FlightApiApplication.class, args);
 
-		System.out.println("Bienvenidos al Club");
+		System.out.println("Bienvenidos");
 	}
-
 }
